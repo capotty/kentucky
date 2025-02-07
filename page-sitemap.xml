@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -20,84 +23,84 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/georgetown/</loc>
-		<lastmod>2025-02-06T02:33:57+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/florence/</loc>
-		<lastmod>2025-02-06T02:33:57+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/nicholasville/</loc>
-		<lastmod>2025-02-06T02:33:57+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/owensboro/</loc>
-		<lastmod>2025-02-06T02:33:56+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/covington/</loc>
-		<lastmod>2025-02-06T02:33:56+00:00</lastmod>
+		<lastmod>2025-02-07T01:01:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/richmond/</loc>
-		<lastmod>2025-02-06T02:33:56+00:00</lastmod>
+		<lastmod>2025-02-07T01:01:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/georgetown/</loc>
+		<lastmod>2025-02-07T01:01:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/florence/</loc>
+		<lastmod>2025-02-07T01:01:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/owensboro/</loc>
+		<lastmod>2025-02-07T01:01:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/covington/</loc>
+		<lastmod>2025-02-07T01:01:48+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/bowling-green/</loc>
-		<lastmod>2025-02-06T02:33:55+00:00</lastmod>
+		<lastmod>2025-02-07T01:01:47+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/somerset/</loc>
-		<lastmod>2025-02-06T02:33:55+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/harlan/</loc>
-		<lastmod>2025-02-06T02:33:54+00:00</lastmod>
+		<lastmod>2025-02-07T01:01:47+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/lexington/</loc>
-		<lastmod>2025-02-06T02:33:54+00:00</lastmod>
+		<lastmod>2025-02-07T01:01:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/harlan/</loc>
+		<lastmod>2025-02-07T01:01:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/madisonville/</loc>
-		<lastmod>2025-02-06T02:33:54+00:00</lastmod>
+		<lastmod>2025-02-07T01:01:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/shelbyville/</loc>
-		<lastmod>2025-02-06T02:33:53+00:00</lastmod>
+		<lastmod>2025-02-07T01:01:45+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/frankfort/</loc>
-		<lastmod>2025-02-06T02:33:53+00:00</lastmod>
+		<lastmod>2025-02-07T01:01:45+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/ashland/</loc>
-		<lastmod>2025-02-06T02:33:53+00:00</lastmod>
+		<lastmod>2025-02-07T01:01:45+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/hopkinville/</loc>
-		<lastmod>2025-02-06T02:33:52+00:00</lastmod>
+		<lastmod>2025-02-07T01:01:44+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/independence/</loc>
-		<lastmod>2025-02-06T02:33:52+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/elizabethtown/</loc>
-		<lastmod>2025-02-06T02:33:51+00:00</lastmod>
+		<lastmod>2025-02-07T01:01:44+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/jeffersontown/</loc>
-		<lastmod>2025-02-06T02:33:51+00:00</lastmod>
+		<lastmod>2025-02-07T01:01:43+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/paducah/</loc>
-		<lastmod>2025-02-06T02:33:51+00:00</lastmod>
+		<lastmod>2025-02-07T01:01:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/elizabethtown/</loc>
+		<lastmod>2025-02-07T01:01:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/louisville/</loc>
-		<lastmod>2025-02-06T02:33:50+00:00</lastmod>
+		<lastmod>2025-02-07T01:01:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
